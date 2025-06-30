@@ -1,3 +1,4 @@
+![logo](https://github.com/ashukumari95/ashukumari95/blob/main/Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Ashu Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
