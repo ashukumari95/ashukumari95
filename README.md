@@ -32,33 +32,57 @@
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+### Languages
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 
-### Backend & Databases
+### Web & Frameworks
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter)
+![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
 
-### Tools & Hosting
+### DevOps, Tools & Hosting
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=githubpages)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-000000?style=for-the-badge&logo=windowsterminal)
+
+### Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva)
 
 ### Web3 (Learning)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum)
 ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3.js)
+
 
 ---
 
