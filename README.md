@@ -21,6 +21,7 @@
 
 - 🔐 **RBAC Authentication System**  
   🔗 Repo: https://github.com/ashukumari95/rbac-auth-dashboard
+  🌐 Live: https://crm-secure-platform.vercel.app/
 
 ---
 
